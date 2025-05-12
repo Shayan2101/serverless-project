@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "serverless-project",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "4cd2379f-242e-4931-912a-6532a6a81d6e",
+      "database_name": "Serverless_database"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
